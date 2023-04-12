@@ -1,0 +1,60 @@
+--------------------------------------------------------------EPAM-------------------------------------------------------
+java 8 --features:
+lambda
+functional interface
+optionals 
+date time
+
+
+
+------------------------VERSION  CONTROL SYSTEM----------------------------------
+GIT:
+git is a software - free and open source
+git architecture
+1. working directory
+	-untracked files
+2. staging area
+	-tracked files
+3. local repo
+	-commited files
+4. remote repo
+	-remote files
+
+GITHUB:
+github is a service - it is hosted on web
+github architecture:
+1. working directory
+2. stagging
+3. Local Repository
+	-git push->
+	-git pull
+	-git clone-> directly download projects from global repository to local repository
+		--git clone <http code>
+
+
+git --version --> current version 
+git init --> to create local repository
+git status--> to list out untracked files
+git add . --> to add all files
+git add file1 file2 -->to add particular files
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
